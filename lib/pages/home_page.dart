@@ -17,8 +17,8 @@ class _HomePageState extends State<HomePage> {
 
   final pages = [
       const ExplorePage(),
-      const CartPage(),
       const ServicesPage(),
+      const CartPage(),
       const ProfilePage(),
     ];
     int currentPage = 0;

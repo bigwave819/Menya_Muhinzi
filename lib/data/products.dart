@@ -39,7 +39,7 @@ List<Product> products = [
   const Product(
     name: "ingano", 
     description: "Imbuto y’ingano yatoranyijwe neza ni imbuto irumbuka cyane, ifite ubushobozi bwo kwihanganira indwara n’imihindagurikire y’ibihe. Iyi mbuto itanga umusaruro mwinshi kandi w’inyamibwa, ikaba ari yo ihitamo ryiza ku bahinzi bashaka kongera umusaruro no guhinga mu buryo burambye ", 
-    image: "images/ingano.jpeg", 
+    image: "images/ingano.jpg", 
     price: 800, 
     rating: 4.12
   )

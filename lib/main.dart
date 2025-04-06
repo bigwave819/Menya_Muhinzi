@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:secondapp/pages/home_page.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:secondapp/pages/welcome_page.dart';
 
 
 void main() {
@@ -25,7 +26,7 @@ class _MyAppState extends State<MyApp> {
             useMaterial3: true,
             textTheme: GoogleFonts.mulishTextTheme()
         ),
-        home: HomePage(),
+        home: WelcomePage(),
     );
   }
 }
